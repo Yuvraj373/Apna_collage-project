@@ -227,3 +227,44 @@ hr{
     height: 48px;
     border-radius: 15px;
 }
+.sixth-content{
+    padding: 80px 0;
+}
+.sixth-content h2{
+    text-align: center;
+}
+ .misson- img{
+ height: 614px;
+}
+.misson-{
+    margin-top: 30px;
+    text-align: center;
+}
+.us-on{
+    background-color: #f8f8fd;
+    padding: 80px 0;
+}
+
+.us-on h1{
+    text-align: center;
+}
+#channel{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: red;
+}
+.socialmedia{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.youtube i{
+    font-size: 33px;
+}
+.youtube b{
+    font-size: 15px;
+    font-weight: 600;
+}
